@@ -4,6 +4,13 @@
 
 原版 PDF：[光电.pdf](光电.pdf)
 
+## 原版 PNG 预览
+
+![原版第 1 页](assets/original-pdf/page-1.png)
+![原版第 2 页](assets/original-pdf/page-2.png)
+![原版第 3 页](assets/original-pdf/page-3.png)
+![原版第 4 页](assets/original-pdf/page-4.png)
+
 ## 目录
 
 - [第二章 光学基础知识](#第二章光学基础知识)
