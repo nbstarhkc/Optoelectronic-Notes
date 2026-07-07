@@ -27,7 +27,7 @@ c = 1 / √(μ₀ε₀) = 2.998 × 10⁸ m/s
 
 I = E₀² cos²φ = I₀ cos²φ
 
-![布儒斯特角示意图](assets/brewster-angle.svg)
+![布儒斯特角示意图](assets/brewster-angle.png)
 
 ### 偏振光的合成
 
@@ -216,7 +216,7 @@ g₁ = 1 − L/R₁，g₂ = 1 − L/R₂
 
 V 表示光纤中可传播横向模式的大致多少。当 V < 2.405 时，只能传输基模；当 V > 2.405 时，可为多模传输。
 
-![光纤结构简图](assets/fiber-structure.svg)
+![光纤结构简图](assets/fiber-structure.png)
 
 ### 模式数与传输模式
 
