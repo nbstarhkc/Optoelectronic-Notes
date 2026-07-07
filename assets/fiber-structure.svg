@@ -1,0 +1,10 @@
+<svg viewBox="0 0 320 230" aria-label="光纤结构简图">
+          <ellipse cx="96" cy="112" rx="62" ry="82" fill="none" stroke="#111" stroke-width="3"/>
+          <ellipse cx="158" cy="112" rx="42" ry="64" fill="none" stroke="#111" stroke-width="3"/>
+          <ellipse cx="206" cy="112" rx="28" ry="46" fill="none" stroke="#111" stroke-width="3"/>
+          <line x1="205" y1="112" x2="300" y2="112" stroke="#111" stroke-width="3"/>
+          <text x="25" y="23" font-size="17">二次涂覆层</text>
+          <text x="145" y="31" font-size="17">一次涂覆层</text>
+          <text x="185" y="55" font-size="17">包层</text>
+          <text x="248" y="100" font-size="17">纤芯</text>
+        </svg>
